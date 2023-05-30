@@ -1,6 +1,8 @@
 # PD-REAL
 This repo. contains our dataset, PD-REAL, for 3D anomaly detection.
 
+![image text](Overview.png)
+
 PD-REAL consists of over 3,500 high-resolution RGB images and the corresponding depth images and point clouds with 15 object categories, which can be grouped as follows: 
 
 Food: *chicken, cookie, bread, sushi, pizza*     
