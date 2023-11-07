@@ -13,5 +13,5 @@ Toys: *car, airplane, train, bicycle, plaid, crab*
 
 All the objects in PD-REAL are made of Play-Doh models, with 6 types of mannualy introduced anomaly types: *dent, crack, perforation, scratch, combine-S, combine-D*.
 
-Please access PD-REAL from the following link: https://drive.google.com/file/d/1EBapy9BGnwmZJ9Rxh0uTF-Xii9FU0YCG/view?usp=drive_link
+Please access PD-REAL from the following link: https://drive.google.com/file/d/1EBapy9BGnwmZJ9Rxh0uTF-Xii9FU0YCG/view?usp=sharing
 
