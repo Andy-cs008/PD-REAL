@@ -1,4 +1,4 @@
-# PD-REAL
+# The PD-REAL Dataset
 This repo. contains our dataset, PD-REAL, for 3D anomaly detection.
 
 ![image text](Overview.png)
