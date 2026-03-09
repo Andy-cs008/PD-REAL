@@ -15,13 +15,12 @@ All the objects in PD-REAL are made of Play-Doh models, with 6 types of mannualy
 
 Additional visualizations of the PD-REAL dataset across various categories are provided below.
 
-<br><br>
 ![image text](Visualization_1.png)
 <br><br>
 ![image text](Visualization_2.png)
 <br><br>
 ![image text](Visualization_3.png)
-<br><br
+<br><br>
 
 Please access the PD-REAL dataset from the following link: https://drive.google.com/file/d/1EBapy9BGnwmZJ9Rxh0uTF-Xii9FU0YCG/view?usp=sharing
 
