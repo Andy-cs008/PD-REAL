@@ -15,6 +15,8 @@ All the objects in PD-REAL are made of Play-Doh models, with 6 types of mannualy
 
 More visualizations of PD-REAL across different categories are presented below.
 ![image text](Visualization_1.png)
+![image text](Visualization_2.png)
+![image text](Visualization_3.png)
 
 
 Please access PD-REAL from the following link: https://drive.google.com/file/d/1EBapy9BGnwmZJ9Rxh0uTF-Xii9FU0YCG/view?usp=sharing
